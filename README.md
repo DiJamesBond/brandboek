@@ -14,7 +14,7 @@ Beide outputs zijn zelfstandige HTML-bestanden (Google Fonts CDN + inline CSS + 
 ## Snelle start
 
 ```bash
-git clone <link invullen>
+git clone https://github.com/DiJamesBond/brandboek
 ```
 
 Voeg dit daarna in Claude Code toe als werkmap (of plaats de map `.claude/skills/brandboek/` in de `.claude/skills/` van je project). Vraag Claude:
